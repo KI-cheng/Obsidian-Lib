@@ -1,0 +1,16 @@
+/* 预览模式居中 */
+.markdown-preview-view .image-embed {
+  width: 500px !important;
+  height: auto !important;  
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+/* 编辑模式居中（可选） */
+.cm-content .image-embed {
+  width: 500px !important;
+  height: auto !important;  
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
